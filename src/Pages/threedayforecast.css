@@ -1,0 +1,34 @@
+.ThreeBox{
+    width: 29vw;
+    height: 33vh;
+    border-radius: 25px;
+    position: relative;
+    left: 82px;
+    }
+
+    .oneline, .twoline , .threeline , .fourline{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .mm , .mm1, .mm2{
+        padding: 0px 10px;
+    }
+
+    .oneline{
+        gap: 31px;
+    }
+    .twoline{
+        gap: 15px;
+    }
+    .threeline{
+        gap:35px;
+    }
+    .fourline{
+        gap: 31px;
+    }
+    .SD1{
+        display: flex;
+        gap: 10px;
+        margin-top: 10px;
+    }

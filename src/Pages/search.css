@@ -1,0 +1,34 @@
+.container{
+    width: 50vw;
+    height: 10vh;
+    margin: 10px;
+    margin-left: 30px;
+    display: flex;
+}
+
+.search{
+    padding: 10px;
+    padding-left: 1%;
+}
+.searchbar{
+    width: 40vw;
+    border: 2px solid black;
+    border-radius: 18px;
+    padding: 6px;
+    padding-left: 25px;
+}
+.button{
+    color: black;
+    background-color: white;
+    width: 8vw;
+    height: 6vh;
+    padding: 8px;
+    padding-left: 20px;
+    border-radius: 9px;
+    margin: 4px;
+    margin-top: 9px;
+    cursor: pointer;
+}
+.button:hover{
+    background-color: lightgray;
+}

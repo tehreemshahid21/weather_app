@@ -1,0 +1,56 @@
+.box{
+    width: 52vw;
+    height: 30vh;
+    background-color: rgb(71 85 105 / var(--tw-bg-opacity));
+    margin: 10px 35px;
+    border-radius: 25px;
+}
+.box1{
+    display: flex;
+    justify-content: space-between;
+}
+.box2{
+    display: flex;
+    justify-content: space-between;
+}
+.air h6{
+    color: white;
+    font-family: fangsong;
+    font-size: smaller;
+    padding: 11px 22px;
+}
+
+.air{
+    display: flex;
+    justify-content: space-between;
+}
+
+.btnn{
+    background-color: blue;
+    border-radius: 25px;
+    width: 7vw;
+    height: 3vh;
+    margin: 9px;
+    font-size: revert;
+    color: white;
+}
+.content{
+    display: flex;
+}
+.rf h5{
+    padding: 6px 0px;
+    margin: 0px;
+    font-family: initial;
+}
+.tem h5{
+    font-size: x-large;
+    font-weight: bold;
+    padding: 0px 66px;
+}
+
+.side2{
+    padding: 0px 120px;
+}
+.side3{
+    padding: 0px 198px;
+}
