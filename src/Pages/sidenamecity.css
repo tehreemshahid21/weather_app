@@ -1,0 +1,10 @@
+.sidecontainer{
+    /* border: 2px solid black; */
+    width: 37vw;
+    height: 26vh;
+    /* background: black; */
+    display: flex;
+    margin-top: 70px;
+    padding: 0px 50px;
+    gap: 70px;
+}

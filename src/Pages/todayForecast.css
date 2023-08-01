@@ -1,0 +1,65 @@
+.contain{
+    width: 52vw;
+    height: 25vh;
+    background-color: rgb(71 85 105 / var(--tw-bg-opacity));
+    margin: 10px 35px;
+    border-radius: 25px;
+}
+
+.forecast h6{
+    color: white;
+    font-family: fangsong;
+    font-size: smaller;
+    padding: 11px 22px;
+}
+.details{
+    display: flex;
+    flex-direction: row;
+}
+h6{
+    color: white;
+    font-family: fangsong;
+    font-size: small;
+    padding: 9px 40px;
+}
+img{
+    height: 40px;
+    width: 40px;
+    margin: 8px;
+    border-radius: 20px;
+}
+h5{
+    color: white;
+    font-family: fangsong;
+    padding: 9px 49px;
+}
+.one{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.two{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.three{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.four{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.five{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.six{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

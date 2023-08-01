@@ -1,0 +1,42 @@
+.containerr{
+    /* border: 2px solid black; */
+    width: 53vw;
+    height: 27vh;
+    /* background: black; */
+    margin: 0px 30px;
+    margin-top: -16px;
+    display: flex;
+    gap: 17rem;
+}
+.side{
+    display: flex;
+    flex-direction: column;
+}
+.name h1{
+    color: white;
+    font-size: xxx-large;
+    font-weight: 400;
+    font-family: cursive;
+    padding: 0px 35px;
+}
+.name p{
+    color: white;
+    padding: 0px 35px;
+    margin: 0px 2px;
+}
+.temp h1{
+    color: white;
+    font-size: xxx-large;
+    font-weight: 400;
+    font-family: cursive;
+    padding: 0px 35px;
+    margin-top: 25px;
+}
+.pic img{
+    width: 8vw;
+    height: 17vh;
+    border-radius: 70px;
+}
+.pic{
+    margin: 20px;
+}

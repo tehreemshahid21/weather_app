@@ -1,0 +1,52 @@
+.divone{
+    border: 2px solid black;
+    width: 48vw;
+    height: 112px;
+    margin: 8px;
+    margin-left: 40px;
+    background-color: rgb(71 85 105 / var(--tw-bg-opacity));
+    display: flex;
+    border-radius: 30px;
+    position: relative;
+}
+
+.divimg img{
+    height: 40px;
+    width: 40px;
+    margin: 8px;
+    border-radius: 53px;
+    margin: 30px;
+    margin-top: 28px;
+}
+
+.divname h1{
+    color: white;
+    font-size: revert;
+    font-weight: 400;
+    font-family: cursive;
+    padding: 0px 28px;
+    margin-top: 10px;
+  
+}
+
+.sp{
+    color: white;
+    padding: 0px 28px;
+}
+
+.divtemp h1{
+    color: white;
+    font-size: xxx-large;
+    font-weight: 400;
+    font-family: cursive;
+    padding: 10px 390px;
+}
+
+.delete-icon{
+    position: absolute;
+    right: 10px;
+    top: 35px;
+}
+.divtemp{
+    display: flex;
+}
